@@ -1,0 +1,10 @@
+.vs/
+x64/
+Debug/
+Release/
+HeatCalculator/x64/
+HeatCalculator/Debug/
+*.user
+*.exe
+*.obj
+*.pdb
